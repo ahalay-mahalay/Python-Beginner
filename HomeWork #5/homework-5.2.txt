@@ -1,0 +1,4 @@
+string
+another string
+one more string
+fourth string
